@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.yd1722.ddblint.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.yd1722.ddblint.MyBundle
 
 class MyApplicationService {
 
